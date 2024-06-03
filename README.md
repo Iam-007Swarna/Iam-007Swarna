@@ -2,6 +2,10 @@
 🔭 I’m currently working on a Gen AI project on "Intelligent Content Retrieval& Generation" for NASA ADS.<br><br>👯 I’m looking to collaborate on Research based AI projects.<br>🤝 I’m looking for help with resources 🥲.<br>🌱 I’m currently learning API management. <br>💬 Ask me about GenAI & LLMOps.<br>⚡ Fun fact: AI is fun 😅!<br>
 
 
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5800c6211b631b49b4d63657/1517072201941-37JOI5UBDVSD7I4IBF0W/fullyconnected_525.gif" alt="Mistral-7B-Instruct-v0.3">
+</p>
+
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/swarnavbhattac2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swarnavab) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@iamswarnava) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Swarnava-Bhattacharjee-9) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/IamSwarnava007) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Swarnava-Bhattacharjee) [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Iam-007Swarna) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/swarnava007)
 
