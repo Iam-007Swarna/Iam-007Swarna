@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Gen AI project on "Intelligent Content Retrieval& Generation" for NASA ADS.<br><br>👯 I’m looking to collaborate on Research-based AI projects.<br>🤝 I’m looking for help with resources 🥲.<br>🌱 I’m currently learning API management. <br>💬 Ask me about GenAI & LLMOps.<br>⚡ Fun fact: AI is fun 😅!<br>
+🔭 I have worked on a Gen AI project on "Intelligent Content Retrieval& Generation" for NASA ADS.<br><br>👯 I’m looking to collaborate on Research-based AI projects.<br>🤝 I’m looking for help with resources 🥲.<br>🌱 I’m currently learning API management. <br>💬 Ask me about GenAI & LLMOps.<br>⚡ Fun fact: AI is fun 😅!<br>
 
 <p align="left">
   <img src="https://images.squarespace-cdn.com/content/v1/5800c6211b631b49b4d63657/1517072201941-37JOI5UBDVSD7I4IBF0W/fullyconnected_525.gif" alt="Mistral-7B-Instruct-v0.3">
