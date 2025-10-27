@@ -1,7 +1,7 @@
 <!-- Typing SVG Header -->
 <p align="center">
   <a href="https://github.com/Iam-007Swarna">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Swarnava+Bhattacharjee;GenAI+%26+LLMOps+Engineer;NASA+ADS+Contributor;Building+the+Future+with+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Swarnava+Bhattacharjee;GenAI+Research+Engineer;Geoffrey+Hinton+Fellow;Harvard+%7C+NASA+ADS+%7C+Instel+LLC" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,15 +25,15 @@
 class GenAIEngineer:
     def __init__(self):
         self.name = "Swarnava Bhattacharjee"
-        self.role = "GenAI & LLMOps Engineer"
+        self.role = "GenAI Research Engineer"
         self.location = "Kolkata, India"
-        self.current_focus = ["API Management", "RAG Systems", "LLM Fine-tuning"]
+        self.current_focus = ["LLM Fine-tuning", "Prompt Engineering", "MLOps"]
         self.achievements = [
-            "🌌 NASA ADS - Intelligent Content Retrieval & Generation",
-            "🤖 Building production-ready LLM applications",
-            "📚 Technical writer on Medium"
+            "🌌 Harvard University - NASA ADS Intelligent Content Generation",
+            "🏆 Geoffrey Hinton Fellow at Univ.AI",
+            "🤖 Building production-ready LLM applications at Instel LLC"
         ]
-    
+
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing with AI 🚀")
 
@@ -47,29 +47,24 @@ me.say_hi()
   <tr>
     <td align="center" width="50%">
       <h3>🔬 Working On</h3>
-      <p>Advanced RAG implementations<br/>LLMOps pipeline optimization<br/>Multi-agent AI systems</p>
+      <p>LLM Fine-tuning (Gemma, Phi, Mistral)<br/>Advanced RAG with Vector DBs<br/>Dynamic Semantic Prompting</p>
     </td>
     <td align="center" width="50%">
-      <h3>📚 Learning</h3>
-      <p>API Management at Scale<br/>Vector Database Optimization<br/>Prompt Engineering Patterns</p>
+      <h3>📚 Expertise</h3>
+      <p>MLOps & LLMOps<br/>Docker & Kubernetes<br/>Probabilistic Forecasting</p>
     </td>
   </tr>
 </table>
 
-<!-- ## 🏆 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Iam-007Swarna/nasa-ads-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iam-007Swarna&repo=nasa-ads-project&theme=tokyonight&hide_border=true&border_radius=15" />
-  </a>
-  <a href="https://github.com/Iam-007Swarna/llmops-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Iam-007Swarna&repo=llmops-pipeline&theme=tokyonight&hide_border=true&border_radius=15" />
-  </a>
-</div>
+### 🌌 SciXLabs
+*Harvard IACS · NASA ADS · Harvard Smithsonian*;
+AI-powered platform for public outreach.
 
-<p align="center">
-  <i>Note: If these repos don't exist yet, replace with your actual top projects!</i>
-</p> -->
+### ✨ Stellar Forge
+*Harvard IACS · NASA ADS · Harvard Smithsonian*;
+RAG system optimizing astronomy paper titles.
 
 ## 💻 Tech Stack
 
@@ -127,7 +122,8 @@ me.say_hi()
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iam-007Swarna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-007Swarna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-007Swarna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&hide=jupyter%20notebook
+  "/>
 </div>
 
 <div align="center">
@@ -143,6 +139,18 @@ me.say_hi()
 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Iam-007Swarna&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📄 Publications
+
+<div align="left">
+
+- **[Identity-Preserved Facial Diversity With GANs and Recognition Via Fewshot Approach](https://ieeexplore.ieee.org/document/10912019)**
+  - 2024 17th International Conference on Development in eSystem Engineering (DeSE)
+
+- **[Facial Identity Recognition using StyleGAN3 Inversion and Improved Tiny YOLOv7 Model](https://www.nature.com/articles/s41598-025-93096-0)**
+  - Scientific Reports, Nature (2025)
+
 </div>
 
 <!-- ## 📝 Latest Blog Posts
@@ -169,7 +177,7 @@ me.say_hi()
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iam-007Swarna)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/IamSwarnava007)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/swarnava007)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swarnavab98@gmail.com)
 
 </div>
 
