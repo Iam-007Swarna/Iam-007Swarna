@@ -22,21 +22,30 @@
 ## 🚀 About Me
 
 ```python
+from dataclasses import dataclass, field
+
+@dataclass
 class GenAIEngineer:
-    def __init__(self):
-        self.name = "Swarnava Bhattacharjee"
-        self.role = "GenAI Research Engineer"
-        self.location = "Kolkata, India"
-        self.current_focus = ["LLM Fine-tuning", "Prompt Engineering", "MLOps"]
-        self.achievements = [
-            "🌌 Harvard University - NASA ADS Intelligent Content Generation",
-            "🏆 Geoffrey Hinton Fellow at Univ.AI",
-            "🤖 Building production-ready LLM applications at Instel LLC"
-        ]
+    name: str = "Swarnava Bhattacharjee"
+    role: str = "GenAI Research Engineer"
+    location: str = "Kolkata, India"
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing with AI 🚀")
+    current_focus: list[str] = field(default_factory=lambda: [
+        "Multi-Agent Systems", "AI-Powered UI/UX", "Autonomous Pipelines"
+    ])
+    expertise: list[str] = field(default_factory=lambda: [
+        "LLM Fine-tuning", "RAG Systems", "Prompt Engineering"
+    ])
+    achievements: list[str] = field(default_factory=lambda: [
+        "🌌 Harvard IACS - NASA ADS & Smithsonian",
+        "🏆 Geoffrey Hinton Fellow at Univ.AI",
+        "🚀 GenAI Engineer at Instel LLC"
+    ])
 
+    def say_hi(self) -> None:
+        print(f"Thanks for dropping by! Let's build something amazing with AI 🚀")
+
+# Initialize
 me = GenAIEngineer()
 me.say_hi()
 ```
@@ -47,11 +56,11 @@ me.say_hi()
   <tr>
     <td align="center" width="50%">
       <h3>🔬 Working On</h3>
-      <p>LLM Fine-tuning (Gemma, Phi, Mistral)<br/>Advanced RAG with Vector DBs<br/>Dynamic Semantic Prompting</p>
+      <p>Multi-Agent System Design<br/>AI-Powered UI/UX<br/>Autonomous ML Pipelines</p>
     </td>
     <td align="center" width="50%">
       <h3>📚 Expertise</h3>
-      <p>MLOps & LLMOps<br/>Docker & Kubernetes<br/>Probabilistic Forecasting</p>
+      <p>LLM Fine-tuning & Optimization<br/>RAG Systems & Vector Databases<br/>Advanced Prompt Engineering</p>
     </td>
   </tr>
 </table>
@@ -59,12 +68,10 @@ me.say_hi()
 ## 🚀 Featured Projects
 
 ### 🌌 SciXLabs
-*Harvard IACS · NASA ADS · Harvard Smithsonian*;
-AI-powered platform for public outreach.
+*Harvard IACS · NASA ADS · Harvard Smithsonian* — AI-powered platform for public outreach.
 
 ### ✨ Stellar Forge
-*Harvard IACS · NASA ADS · Harvard Smithsonian*;
-RAG system optimizing astronomy paper titles.
+*Harvard IACS · NASA ADS · Harvard Smithsonian* — RAG system optimizing astronomy paper titles.
 
 ## 💻 Tech Stack
 
@@ -122,8 +129,7 @@ RAG system optimizing astronomy paper titles.
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Iam-007Swarna&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-007Swarna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&hide=jupyter%20notebook
-  "/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iam-007Swarna&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15&hide=jupyter%20notebook"/>
 </div>
 
 <div align="center">
